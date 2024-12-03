@@ -1,1 +1,2 @@
 # Crowfunding_ETL
+The cvs will be found in the resource folder along with the xlsx files. In there it should have campaign, category, contacts, crowdfunding, and subcategory. The jupyter notebook file will be the ETL_Mini_Project_  RMoore_LBramlett which will use the xlsx files to make the dataframes. The crowdfunding_db_schema.sql will be the database schema that is used in Postgres SQL but the final SQL file will be called crowdfunding_db. 
